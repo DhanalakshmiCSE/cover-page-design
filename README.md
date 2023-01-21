@@ -133,5 +133,10 @@ Runserver to get the output.
 ## Output:
 ![COVERPAGE](images/page.png)
 
+HTML validation:
+
+![valid 1](https://user-images.githubusercontent.com/119477832/213881523-68bb48c6-0e4b-4c64-85dd-74fa8f84b3f2.png)
+
+
 ## Result:
 Cover page designed and displayed successfully
